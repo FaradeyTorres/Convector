@@ -61,3 +61,5 @@ The program is available in English, Russian, Spanish, German and Chinese.
 The requests library is needed to work with the exchange rate.
 
 Command: pip install requests
+
+I highly recommend deploying it in full-screen mode so that all the buttons fit.
