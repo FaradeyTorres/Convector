@@ -47,7 +47,8 @@ This mode allows you to convert currencies based on current exchange rates. The 
 
 * Cache data: If you have already updated the courses, the app will save them to a file and use this data to avoid making unnecessary requests.
 
-To use this feature, you need to get a free API key and enter it in the app. (https://www.exchangerate-api.com/)
+To use this feature, you need to get a free API key and enter it in the app.
+(https://www.exchangerate-api.com/)
 
 Additional features
 
@@ -56,3 +57,7 @@ Additional features
 * User-friendly interface: Intuitive design allows you to quickly switch between modes, select units of measurement and enter values.
 
 The program is available in English, Russian, Spanish, German and Chinese.
+
+The requests library is needed to work with the exchange rate.
+
+Command: pip install requests
