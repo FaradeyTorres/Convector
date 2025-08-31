@@ -31,7 +31,7 @@ This mode works with a wide range of physical quantities and contains 16 differe
 
 * Time: seconds, minutes, hours, days, weeks, years.
 
-* Radiation: sievers, behrs, grays, X-rays, radars.
+* Radiation: sievers, behrs, grays, X-rays, rads.
 
 * Astronomy: light years, astronomical units, parsecs, lunar distance. (Note! Astronomical measurements are in beta testing and may be inaccurate.)
 
@@ -55,4 +55,4 @@ Additional features
 
 * User-friendly interface: Intuitive design allows you to quickly switch between modes, select units of measurement and enter values.
 
-The program is available in English, Russian, Spanish and German.
+The program is available in English, Russian, Spanish, German and Chinese.
