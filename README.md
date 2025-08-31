@@ -47,7 +47,7 @@ This mode allows you to convert currencies based on current exchange rates. The 
 
 * Cache data: If you have already updated the courses, the app will save them to a file and use this data to avoid making unnecessary requests.
 
-To use this feature, you need to get a free API key and enter it in the app.
+To use this feature, you need to get a free API key and enter it in the app. (https://www.exchangerate-api.com/)
 
 Additional features
 
